@@ -1,0 +1,28 @@
+baseurl = "https://foxacid.patrickod.com/blog"
+disablePathToLower = true
+languageCode = "en"
+title = "slash blog"
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/patrickod\">Patrick O'Doherty</a> 2016"
+description = "a collection of thoughts and hacks"
+
+[permalinks]
+post = "/blog/:year-:month-:day-:title/"
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile", "python"]
+
+[[params.social]]
+url = "https://github.com/patrickod"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/patrickod"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"

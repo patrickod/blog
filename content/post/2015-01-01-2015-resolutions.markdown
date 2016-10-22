@@ -1,0 +1,44 @@
+---
+categories: life exercise health technology foss community
+comments: true
+date: 2015-01-01T14:38:57Z
+title: '2015: Resolutions'
+url: /2015/01/01/2015-resolutions/
+---
+
+As I write this I'm back in Dublin having been at 31C3 these last few days. It was a fantastic time meeting a whole range of new interesting people, as well as getting to know better the wonderful friends that I've made this year.
+
+Running into the end of the year I was feeling a little burnt out, mostly due to fire-fighting interpersonal drama in Noisebridge. I was very much looking forward to the break from SF and the commitments I have there in the hopes that I'd be re-energised, and as it turns out it has done exactly that.
+
+In the spirit of positivity that I have about this upcoming year I thought I'd write down some resolutions I have for 2015. Some are new aspirations I have for the year while others are modifications and stronger commitments to things I did this year.
+
+Without further ado here's a few resolutions for 2015.
+
+### Start exercising regularly.
+
+I started jogging over the summer but was thrown off by an ankle injury followed by 2 weeks at Burning Man. I never got back into the habit though as $life intervened, even though I did enjoy it.
+
+With the beautiful natural resource of Golden Gate Park so close to home I hope to run at least twice a week, bringing a bit more balance into my life. Maybe a bit cliche but we'll see how it goes. I'm hopeful that my partner will hold me accountable.
+
+### Guard my time better: Learn to say "No"
+
+A pattern that I observed in my behavior this year is that I have a tendency to take on too many commitments to help communities reach their goals, sometimes to detriment of myself and the relationships I have with others. I've resolved this year to better guard my time, and to say "No" to extra commitments asked of me. While these communities are greatly important to me, I want to ensure that they don't upset the balance of my life.
+
+### Contribute to FOSS
+
+A highlight of my year this year was [contributing to the tor project](https://blog.torproject.org/blog/stem-release-13) for the first time. Hearing Jacob and Roger talk about the work that the tor project does, and having the opportunity to chat with them during 31C3 made me realise the benefit to be gained from a wider base of contributions and support for these projects.
+
+The tor project are effecting great change in the world, and they stand for values of anonymity and privacy that I hold dear. This year I hope to show my support not only through running tor nodes and advocacy, but by contributing to tor both with patches and monetary donations. In a world with global surveillance, I want to do my bit in helping the tor project, and others that I see as changing the world, survive.
+
+### Use more day to day crypto
+
+Jacob and Laura's talk this year ["Reconstructing narratives"](http://media.ccc.de/browse/congress/2014/31c3_-_6258_-_en_-_saal_1_-_201412282030_-_reconstructing_narratives_-_jacob_-_laura_poitras.html#video) was a very sobering one indeed. It terrifies me that many of the wildest conspiracy theories that were held regarding the abilities and activities of NSA and GCHQ have been validated entirely by the Snowden archives. My personal response to this is to start using open source cryptography more in my daily life, using GPG to encrypt as much email as possible, using OTR with all available contacts, using TextSecure with friends in place of SMS and others.
+
+
+### Blog more
+
+I greatly enjoy reading personal blogs of others, and have been putting off starting my own for a while. Recently I discovered the idea of the ["Iron blogger"](http://iron-blogger-sf.com/the-rules/), a group agreement amongst friends to write a blog post once a week, with a communal beer fund to which you contribute if you fail to do so. I've decided to start one of these with a group of friends from [Noisebridge](https://noisebridge.net) and host the resulting posts as a planet to showcase the community of awesome folks in the space. I'm excited to blog more and start improving my writing skills, which I notice have atrophied somewhat since I left secondary school.
+
+I'll be in Dublin for a week yet before returning to San Francisco where many of these will start coming into play. I'm excited to see what 2015 brings.
+
+P
