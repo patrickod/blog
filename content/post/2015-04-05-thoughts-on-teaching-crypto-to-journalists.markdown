@@ -1,9 +1,12 @@
 ---
-categories: teaching crytography noisebridge
 comments: true
 date: 2015-04-05T17:34:28Z
 title: Thoughts on teaching crypto to journalists
 url: /2015/04/05/thoughts-on-teaching-crypto-to-journalists/
+categories:
+ - teaching
+ - crytography
+ - noisebridge
 ---
 
 Last Saturday I gave a workshop on Data Security to a small group of Bay Area journalists at Noisebridge. The workshop was a small-group test of the same material that'll be used at a larger workshop I'm helping to lead at the Committe to Project Journalism's SF conference later this month.

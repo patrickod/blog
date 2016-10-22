@@ -1,9 +1,12 @@
 ---
-categories: noisebridge conferences events
 comments: true
 date: 2015-03-08T22:59:51Z
 title: 'Iron Blogger: It begins'
 url: /2015/03/08/iron-blogger-it-begins/
+categories:
+ - noisebridge
+ - conferences
+ - events
 ---
 
 I finally, this past weekend, got around to implementing the Iron Blogger group that I'd been hoping to start at Noisebridge before Christmas (better late than never). This post is actually the first of my weekly obligations. Watch this space for more blogging.

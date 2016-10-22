@@ -1,9 +1,15 @@
 ---
-categories: life noisebridge rust barcode hackathon makerfaire
 comments: true
 date: 2015-05-17T23:50:17Z
 title: Breaking radio silence
 url: /2015/05/17/breaking-radio-silence/
+categories:
+ - life
+ - noisebridge
+ - rust
+ - barcode
+ - hackathon
+ - makerfaire
 ---
 
 It's been a while since I've had the opportunity to sit down and write a nicely thought out blog post, but in the complete absence of any rhythm in recent postings I figured I'd write down some thoughts about the last 2 weeks.

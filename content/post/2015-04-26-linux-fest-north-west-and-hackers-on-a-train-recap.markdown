@@ -1,9 +1,13 @@
 ---
-categories: conferences lfnw travel foss
 comments: true
 date: 2015-04-26T20:10:11Z
 title: Linux Fest North West &amp; Hackers on a Train recap
 url: /2015/04/26/linux-fest-north-west-and-hackers-on-a-train-recap/
+categories:
+ - conferences
+ - lfnw
+ - travel
+ - foss
 ---
 
 I've been neglecting my weekly blog post the last few weeks, but I'm back! The last few weeks and weekends have been busy with fun stuff.

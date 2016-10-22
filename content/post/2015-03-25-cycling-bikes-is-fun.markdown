@@ -1,9 +1,13 @@
 ---
-categories: life bicycles transport health
 comments: true
 date: 2015-03-25T20:50:14Z
 title: Cycling bikes is fun
 url: /2015/03/25/cycling-bikes-is-fun/
+categories:
+ - life
+ - bicycles
+ - transport
+ - health
 ---
 
 I started riding my bike to work the other day, and it's very enjoyable. I've been feeling a bit sedentary in recent times, so a more active morning and evening commute is a really welcome change. I'd kinda forgotten that nice feeling you get post-exercise, and it's made me realise that I should do this more often.

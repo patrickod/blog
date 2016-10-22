@@ -1,9 +1,15 @@
 ---
-categories: ksp running fitness health books scifi
 comments: true
 date: 2015-06-14T15:18:47Z
 title: Running, reading, blue hair, and orbital mechanics
 url: /2015/06/14/running-reading-blue-hair-and-orbital-mechanics/
+categories:
+ - ksp
+ - running
+ - fitness
+ - health
+ - books
+ - scifi
 ---
 
 I've lapsed yet again in the weekly writing requirement of the [Iron Blogger](http://iron-blogger.noisebridge.systems) project at Noisebridge and so feel compelled to give a core-dump type post to recount the happenings of the last two weeks.

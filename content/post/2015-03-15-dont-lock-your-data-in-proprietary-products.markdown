@@ -1,10 +1,18 @@
 ---
-categories: data archiving storage backup freenas drobo nas storage
 comments: true
 date: 2015-03-15T21:47:19Z
 title: 'Don''t lock your data in proprietary products: Or, why I''m replacing my Drobo
   with a FreeNAS box'
 url: /2015/03/15/dont-lock-your-data-in-proprietary-products/
+categories:
+ - data
+ - archiving
+ - storage
+ - backup
+ - freenas
+ - drobo
+ - nas
+ - storage
 ---
 
 PSA: Don't trust your valued data to proprietary products. When they break you'll be up a proverbial creek without a paddle.

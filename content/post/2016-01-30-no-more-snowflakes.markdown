@@ -1,9 +1,12 @@
 ---
-categories: servers ansible devops
 comments: true
 date: 2016-01-30T15:17:17Z
 title: No more snowflakes
 url: /2016/01/30/no-more-snowflakes/
+categories:
+ - servers
+ - ansible
+ - devops
 ---
 
 Administrating a single server that's your sole responsibility isn't that much of a

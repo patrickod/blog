@@ -1,9 +1,10 @@
 ---
-categories: python noisebridge
-comments: true
 date: 2014-11-23T23:12:20Z
 title: 'Reading mailing list archives with Python: Noisechain Pt. 1'
 url: /2014/11/23/reading-mailing-list-archives-with-python/
+categories:
+ - python
+ - noisebridge
 ---
 
 Inspired by the twitter account "Shit Noisebridge says" I set about recently to script together that trains a [Markov chaina](https://en.wikipedia.org/wiki/Markov_chain) on the complete archive of the `noisebridge-discuss@` mailing list to create a rival account "Shit noisebridge probably says".
