@@ -9,4 +9,4 @@ build:
 	hugo
 
 deploy:
-	rsync -r -h --stats --progress -a public/	foxacid.patrickod.com:/srv/foxacid.patrickod.com/blog/
+	aws s3 sync public/ s3://patrickod.com/
