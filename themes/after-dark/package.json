@@ -1,36 +1,29 @@
 {
   "name": "after-dark",
-  "version": "1.0.0",
-  "description": "A retro dark theme for Hugo",
-  "private": true,
-  "dependencies": {
-    "hack": "0.7.7"
-  },
-  "devDependencies": {
-    "npm-check-updates": "^2.8.0"
-  },
-  "scripts": {
-    "ncu": "npm-check-updates .",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/comfusion/after-dark.git"
-  },
+  "version": "1.8.4",
+  "description": "A simple, yet highly configurable responsive dark theme for the Hugo static site generator.",
+  "author": "Josh Habdas <josh@habd.as> (https://habd.as/)",
   "keywords": [
     "hugo",
-    "theme",
-    "blog",
-    "minimal",
-    "accessible",
-    "responsive",
-    "retro",
-    "dark"
+    "vaporwave",
+    "jamstack",
+    "theme"
   ],
-  "author": "Josh Habdas",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/comfusion/after-dark/issues"
+  "repository": "comfusion/after-dark",
+  "scripts": {
+    "copy:lazysizes": "cp -i node_modules/lazysizes/lazysizes.min.js static/js",
+    "copy:smoothscroll": "cp -i node_modules/smoothscroll-polyfill/dist/smoothscroll.js static/js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
   },
-  "homepage": "https://github.com/comfusion/after-dark#readme"
+  "dependencies": {
+    "atom-one-pgyments": "^1.0.0",
+    "hack": "0.7.7",
+    "lazysizes": "^3.0.0-rc4",
+    "smoothscroll-polyfill": "^0.3.4"
+  },
+  "devDependencies": {
+    "standard-version": "^4.0.0"
+  },
+  "license": "ISC"
 }
