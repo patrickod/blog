@@ -9,4 +9,4 @@ build:
 	hugo
 
 deploy:
-	aws s3 sync public/ s3://patrickod.com/
+	aws --profile personal s3 sync public/ s3://patrickod.com/
