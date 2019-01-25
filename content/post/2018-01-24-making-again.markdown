@@ -141,18 +141,20 @@ And here's the almost assembled PCB (missing only the final potentiometers) with
 the front panel mounted.
 ![Ubust partially assembled front panel](/images/making-again/uburst-wip-2.jpg)
 
-I have completed the assembly of all the SMD components on the back side of the
-board and will this evening once I've finished writing this piece hopefully
-complete the through hole parts remaining on the far side of the board. I
-unfortunately don't have all the pieces necessary to finish the build tonight as
-I'm missing the small potentiometers that serve as the attenuator controls for
-the CV inputs. Thankfully there are a handful of small merchants in the US that
-stock these niche components so it was easy to source them. With any luck
-they'll arrive this weekend. 
+At the time of writing the module is very near completely assembled, with all of
+the SMD components on the back side of the board and the vast majority of the
+through-hole parts installed. The final parts that I need to finish assembly are
+the potentiometers that serve as attenuator controls for the various CV inputs
+which I hope will arrive in the mail in the coming days. Unfortunately due to
+certain components being niche or in short supply it is not always possible to
+source all of the parts listed in a given Eurorack module's BOM (Bill of
+Materials) from a single vendor such as Mouser. Thankfully however there is a
+great ecosystem of small vendors that stock all things Eurorack which we can
+turn to for the final elusive items.
 
 Once I have the assembly complete and the power supply pinout confirmed on the
 Module Tester the next challenge will be flashing the STM32 with the Clouds
-firmware. This is done using the JTAG pins on the board. I've done some reading
+firmware. This is done using the JTAG headers on the board. I've done some reading
 which suggests that I should be able to use my [Bus
 Pirate](http://dangerousprototypes.com/docs/Bus_Pirate) with a more recent
 community supported firmware upgrade in combination with a tool called OpenOCD
@@ -172,7 +174,7 @@ been listening to some really great modular techno recently, in particular stuff
 by Justin Owen of Abstract Data, a.k.a [Jack Patch](https://jackpatchbiz.bandcamp.com/)
 
 It's really great stuff, and it has inspired an interest in techno, and in
-particular *modular* techno that make me decide to dedicate this rig to live
+particular *modular* techno that made me decide to dedicate this rig to live
 modular techno performances. With some luck and with the wind behind my back I
 would hope to be able to accomplish something minor in this field during 2019.
 Fingers crossed! Watch this space. 

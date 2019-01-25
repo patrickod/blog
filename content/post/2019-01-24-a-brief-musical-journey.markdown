@@ -48,7 +48,7 @@ I'm not usually a fan of large crowds I felt completely at home there.
 Fast forward to September of 2017 and I decided that I would finally attend one
 of their milestone shows, a traveling live broadcast concert of every 50th
 episode which occurs around the end of September every year. ABGT250 was being held at
-[The Gorge Amphitheater](https://en.wikipedia.org/wiki/The_Gorge_Amphitheatre),
+[The Gorge Amphitheatre](https://en.wikipedia.org/wiki/The_Gorge_Amphitheatre),
 a ~28,000 open air concert venue in the Columbia River basin in Washington
 State. It is, in my opinion, one of the most spectacular venues in the world,
 and somewhere I'd long dreamed of attending a show. The prospect of Above and
@@ -76,7 +76,8 @@ to every Friday and to be able to finally catch one live in such a setting and w
 great company brought a moment of instant clarity as just how much positivity it
 had provided me over all the years. 
 
-![Above and Beyond play ABGT250](/images/abgt250-confetti.jpg)
+![The Gorge Amphitheatre for ABGT250](/images/abgt250-gorge-amphitheatre.jpg)
+
 
 After that weekend I started to dedicate more and more of my spare time to music
 in various ways. Given that I had some background in it already I decided to
@@ -89,6 +90,8 @@ the same time making every bit of progress that much more rewarding. In turn
 learning about how this music is made has made the experience of listening to it
 more enjoyable as my ear develops and I'm able to distinguish more of the
 features in greater detail.
+
+![Above and Beyond play ABGT250](/images/abgt250-confetti.jpg)
 
 I've also tried to take in more of the shows that pass through San Francisco
 with a particular group of friends. The highlight of the year was August's
