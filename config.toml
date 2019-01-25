@@ -1,7 +1,8 @@
-baseurl = "https://patrickod.com"
+baseurl = "https://www.patrickod.com"
 disablePathToLower = true
 languageCode = "en"
-title = "slash blog | a collection of thoughts and hacks"
+title = "slash blog"
+subTitle = "a collection of thoughts and hacks"
 theme = "arabica"
 copyright = "Patrick O'Doherty"
 relativeURLS = false

@@ -36,7 +36,7 @@ My favourite act among my new discoveries were Above and Beyond, specifically
 their weekly Group Therapy podcast, a 2 hour compilation of electronic music
 that they release every Friday. I immediately became a fan and I've listened
 religiously ever since. I spent the first few years as a passive listener taking
-in the weekly broadcast but not attending any live shows live until 2013 when I
+in the weekly broadcast but not attending any live shows until 2013 when I
 was lucky enough to catch their San Francisco leg of the We Are All We Need tour
 with some friends. It was the first time I'd experienced live electronic music
 in any form and the experience completely blew me away. The combination of the
@@ -47,7 +47,7 @@ I'm not usually a fan of large crowds I felt completely at home there.
 
 Fast forward to September of 2017 and I decided that I would finally attend one
 of their milestone shows, a traveling live broadcast concert of every 50th
-episode which around the end of September every year. ABGT250 was being held at
+episode which occurs around the end of September every year. ABGT250 was being held at
 [The Gorge Amphitheater](https://en.wikipedia.org/wiki/The_Gorge_Amphitheatre),
 a ~28,000 open air concert venue in the Columbia River basin in Washington
 State. It is, in my opinion, one of the most spectacular venues in the world,
@@ -61,13 +61,13 @@ two: myself and Cameron (a.k.a.
 [turtletheory](https://soundcloud.com/turtletheory)). Undeterred by our
 losses Cameron and I embarked on an 18 hour drive straight from San Francisco to
 The Gorge together the Friday before the event and in doing so became instant
-friends sharing an epic journey. We arrived into the campsite in the crisp dawn
+friends as we took in an epic journey together. We arrived into the campsite in the crisp dawn
 air and pitched our tents as the sun began to rise. 
 
 ![Pitching our tents as the sun rose on ABGT250](/images/abgt250-tent-sunrise.jpg)
 
 The next two days of music were an eye opening experience, and
-immediately crystallized something that in respect should have been
+immediately crystallized something that in retrospect should have been
 long-obvious: that music is incredibly important to me and also that it plays a
 significant role in my emotional wellbeing. I discovered electronic music at
 a more turbulent part of my life and it buoyed me through a number of rough
@@ -83,8 +83,9 @@ in various ways. Given that I had some background in it already I decided to
 make an attempt at learning how to produce my own music encouraged on by
 Cameron's helpful advice. I've spent a considerable amount of my free time in
 the last year pursuing it since, and the experience has been wonderful. The
-limitless potential of an empty DAW session is very daunting at first, at the
-same time making every bit of progress that much more rewarding. In turn
+limitless potential of an empty DAW (Digital Audio Workspace - the term for
+software used to create and edit music) session is very daunting at first, at
+the same time making every bit of progress that much more rewarding. In turn
 learning about how this music is made has made the experience of listening to it
 more enjoyable as my ear develops and I'm able to distinguish more of the
 features in greater detail.
@@ -100,7 +101,7 @@ watching the sun set over San Francisco.
 
 ## Looking ahead
 
-This year I've set myself the personal goal of *one live music performance* of
+This year I've set myself the personal goal of **one live music performance** of
 any kind, whether it be DJing, a live performance with Ableton, or perhaps a
 live improvised modular performance! I've no firm plans as yet as it's still
 early days yet, but I'll be sure to give people advanced notice when the day
