@@ -1,0 +1,12 @@
+[submodule "themes/jane"]
+	path = themes/jane
+	url = https://github.com/xianmin/hugo-theme-jane.git
+[submodule "themes/mediumish"]
+	path = themes/mediumish
+	url = https://github.com/lgaida/mediumish-gohugo-theme
+[submodule "themes/minos"]
+	path = themes/minos
+	url = https://github.com/carsonip/hugo-theme-minos
+[submodule "themes/tale"]
+	path = themes/tale
+	url = https://github.com/EmielH/tale-hugo.git

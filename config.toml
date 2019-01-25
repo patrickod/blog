@@ -2,8 +2,8 @@ baseurl = "https://patrickod.com"
 disablePathToLower = true
 languageCode = "en"
 title = "slash blog | a collection of thoughts and hacks"
-theme = "after-dark"
-copyright = "&copy; <a href=\"https://github.com/patrickod\">Patrick O'Doherty</a> 2017"
+theme = "arabica"
+copyright = "Patrick O'Doherty"
 relativeURLS = false
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
