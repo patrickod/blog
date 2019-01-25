@@ -63,17 +63,15 @@ rig and set out looking at the world of DIY eurorack modules for inspiration.**
 
 While I already had a basic soldering setup I'd not done much soldering at home
 before outside of minor repairs of small components. This project was going to
-be my first "serious" undertaking at home and so I was in need of some equipment
-upgrades first. The two best new additions to my setup are this [2.5X LED
-magnifying
+be my first "serious" undertaking at home and so I was in need of some equipment upgrades
+first. The two best new additions to my setup are this [2.5X LED magnifying
 glass](https://www.amazon.com/gp/product/B06WWP4VKB/ref=ppx_yo_dt_b_asin_title_o05__o00_s01?ie=UTF8&psc=1)
-and a [hot air
-station](https://www.amazon.com/gp/product/B01MR2IWBN/ref=ppx_yo_dt_b_asin_title_o05__o00_s02?ie=UTF8&psc=1).
+and a [hot air station](https://www.amazon.com/gp/product/B01MR2IWBN/ref=ppx_yo_dt_b_asin_title_o05__o00_s02?ie=UTF8&psc=1).
 The LED magnifying loop has adjustable brightness and also temperature which
 make working at night very comfortable on the eyes. On top of that the mounting
 arm allows me to tuck it behind my desktop monitor so it can serve as a
-backlight against the wall. ![Magnifying loop
-backlight](/images/making-again-magnifying-loop-backlight.jpg)
+backlight against the wall. 
+![Magnifying loop backlight](/images/making-again/magnifying-loop-backlight.jpg)
 
 ### In the beginning was the tester
 
@@ -106,7 +104,7 @@ development. I want to be absolutely sure that the voltages are correct before I
 connect a development board lest I run the risk of destroying both in one go. 
 
 Here is the board in clock generation mode. 
-![Mutable Instruments Module Tester](/images/making-again-module-tester.jpg)
+![Mutable Instruments Module Tester](/images/making-again/module-tester.jpg)
 
 ## uBurst
 
@@ -128,7 +126,7 @@ makes a significant difference in the limited space in which I'm working. Here's
 a photo of the uBurst faceplate that I picked up. The panel will be fixed on top
 of the PCB and then will in turn be mounted into the case using the screw holes
 along the top and bottom edge of the panel.
-![uBurst panel](/images/making-again-uburst-panel.jpg)
+![uBurst panel](/images/making-again/uburst-panel.jpg)
 
 This is my first attempt ever at SMD soldering at home and so I decided use the
 hot air reflow station instead of using a hotplate to reflow the board after
@@ -137,11 +135,11 @@ give attention to each component individually as I'm working which is preferable
 for my first time around.
 
 Here's the results thus far!
-![uBurst PCB back side assembly](/images/making-again-uburst-wip-1.jpg)
+![uBurst PCB back side assembly](/images/making-again/uburst-wip-1.jpg)
 
 And here's the almost assembled PCB (missing only the final potentiometers) with
 the front panel mounted.
-![Ubust partially assembled front panel](/images/making-again-uburst-wip-2.jpg)
+![Ubust partially assembled front panel](/images/making-again/uburst-wip-2.jpg)
 
 I have completed the assembly of all the SMD components on the back side of the
 board and will this evening once I've finished writing this piece hopefully
