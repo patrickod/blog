@@ -1,4 +1,4 @@
-baseurl = "https://www.patrickod.com"
+baseurl = "https://www.patrickod.com/"
 disablePathToLower = true
 languageCode = "en"
 title = "slash blog"
@@ -32,7 +32,7 @@ twitter = "patrickod"
 email = "hello@patrickod.com"
 
 [params.logo]
-url = "/about/me.png"
+url = "about/me.png"
 height = 120
 width = 120
 alt = "Patrick O'Doherty"
