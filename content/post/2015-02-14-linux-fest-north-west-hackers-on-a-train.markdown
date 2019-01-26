@@ -3,7 +3,7 @@ comments: true
 date: 2015-02-14T22:00:22Z
 title: Linux Fest North West - Hackers on a train
 url: /2015/02/14/linux-fest-north-west-hackers-on-a-train/
-categories:
+tags:
  - conferences
  - linux
  - fest

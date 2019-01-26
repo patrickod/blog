@@ -3,7 +3,7 @@ comments: true
 date: 2015-06-14T15:18:47Z
 title: Running, reading, blue hair, and orbital mechanics
 url: /2015/06/14/running-reading-blue-hair-and-orbital-mechanics/
-categories:
+tags:
  - ksp
  - running
  - fitness

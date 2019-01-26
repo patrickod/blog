@@ -3,7 +3,7 @@ comments: true
 date: 2019-01-24T20:00:00Z 
 title: 'Making again'
 url: /2019/01/24/making-again/
-categories:
+tags:
  - music
  - hobbies
  - eurorack

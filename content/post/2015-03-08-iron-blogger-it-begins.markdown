@@ -3,7 +3,7 @@ comments: true
 date: 2015-03-08T22:59:51Z
 title: 'Iron Blogger: It begins'
 url: /2015/03/08/iron-blogger-it-begins/
-categories:
+tags:
  - noisebridge
  - conferences
  - events

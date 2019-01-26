@@ -4,7 +4,7 @@ date: 2015-03-15T21:47:19Z
 title: 'Don''t lock your data in proprietary products: Or, why I''m replacing my Drobo
   with a FreeNAS box'
 url: /2015/03/15/dont-lock-your-data-in-proprietary-products/
-categories:
+tags:
  - data
  - archiving
  - storage

@@ -3,7 +3,7 @@ comments: true
 date: 2015-04-05T17:34:28Z
 title: Thoughts on teaching crypto to journalists
 url: /2015/04/05/thoughts-on-teaching-crypto-to-journalists/
-categories:
+tags:
  - teaching
  - crytography
  - noisebridge

@@ -3,7 +3,7 @@ comments: true
 date: 2015-05-17T23:50:17Z
 title: Breaking radio silence
 url: /2015/05/17/breaking-radio-silence/
-categories:
+tags:
  - life
  - noisebridge
  - rust

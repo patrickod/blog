@@ -3,7 +3,7 @@ comments: true
 date: 2015-03-22T23:05:14Z
 title: 'Anti-pattern checkin week #3'
 url: /2015/03/22/anti-pattern-checkin-week-number-3/
-categories:
+tags:
  - iron-blogger
  - writing
  - ideas

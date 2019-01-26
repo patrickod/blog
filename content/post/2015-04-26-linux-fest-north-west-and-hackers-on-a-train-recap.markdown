@@ -3,7 +3,7 @@ comments: true
 date: 2015-04-26T20:10:11Z
 title: Linux Fest North West &amp; Hackers on a Train recap
 url: /2015/04/26/linux-fest-north-west-and-hackers-on-a-train-recap/
-categories:
+tags:
  - conferences
  - lfnw
  - travel

@@ -3,7 +3,7 @@ comments: true
 date: 2019-01-24T18:00:00Z 
 title: 'A brief musical journey'
 url: /2019/01/24/a-brief-musical-journey/
-categories:
+tags:
  - music
  - hobbies
  - synthenizers

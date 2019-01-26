@@ -3,7 +3,7 @@ comments: true
 date: 2015-05-30T15:16:03Z
 title: 'Rust barcode scanner v0.1, Freecon, and exercise '
 url: /2015/05/30/rust-barcode-scanner-v0-dot-1-freecon-and-exercise/
-categories:
+tags:
  - rust
  - exercise
  - freecon

@@ -3,7 +3,7 @@ comments: true
 date: 2015-03-25T20:50:14Z
 title: Cycling bikes is fun
 url: /2015/03/25/cycling-bikes-is-fun/
-categories:
+tags:
  - life
  - bicycles
  - transport

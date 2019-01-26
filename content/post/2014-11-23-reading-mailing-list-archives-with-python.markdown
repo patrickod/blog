@@ -2,7 +2,7 @@
 date: 2014-11-23T23:12:20Z
 title: 'Reading mailing list archives with Python: Noisechain Pt. 1'
 url: /2014/11/23/reading-mailing-list-archives-with-python/
-categories:
+tags:
  - python
  - noisebridge
 ---
