@@ -59,7 +59,7 @@ Noisebridge reduced. **I set myself the goal of only including DIY modules in my
 rig and set out looking at the world of DIY eurorack modules for inspiration.**
 
 
-### Home setup
+## Home setup
 
 While I already had a basic soldering setup I'd not done much soldering at home
 before outside of minor repairs of small components. This project was going to
