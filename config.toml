@@ -27,8 +27,8 @@ intro = true
 headline = "slash blog"
 description = "a collection of thoughts and hacks"
 author = "patrickod" # Optional, controls author name display on posts
-github = "patrickod"
-twitter = "patrickod"
+github = "https://github.com/patrickod"
+twitter = "https://twitter.com/patrickod"
 email = "hello@patrickod.com"
 
 [params.logo]
