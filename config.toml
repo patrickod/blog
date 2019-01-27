@@ -31,7 +31,7 @@ github = "https://github.com/patrickod"
 twitter = "https://twitter.com/patrickod"
 email = "hello@patrickod.com"
 
-[params.logo]
+[params.avatar]
 url = "about/me.png"
 height = 120
 width = 120

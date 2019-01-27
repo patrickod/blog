@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2019-01-24T20:00:00Z 
+date: 2019-01-24T20:00:00Z
 title: 'Making again'
 url: /2019/01/24/making-again/
 tags:
@@ -70,7 +70,7 @@ and a [hot air station](https://www.amazon.com/gp/product/B01MR2IWBN/ref=ppx_yo_
 The LED magnifying loop has adjustable brightness and also temperature which
 make working at night very comfortable on the eyes. On top of that the mounting
 arm allows me to tuck it behind my desktop monitor so it can serve as a
-backlight against the wall. 
+backlight against the wall.
 ![Magnifying loop backlight](/images/making-again/magnifying-loop-backlight.jpg)
 
 ### In the beginning was the tester
@@ -95,22 +95,22 @@ warts used in household appliances in the US which use DC, the Module Tester
 requires a 12V AC 1A supply to function correctly. This led to an embarrassing
 episode when I realized I'd totally misread the markings on the adapter and had
 been led on a wild goose chase trying to root cause the broken tone generator
-only to find that I wasn't providing the correct power. 
+only to find that I wasn't providing the correct power.
 
 Having located a suitable power supply in the interim and calibrated it
 everything appears to be in working order. My next step is to check the pin outs
 for the 16 pin adapter which is used to connect to child Eurorack modules under
 development. I want to be absolutely sure that the voltages are correct before I
-connect a development board lest I run the risk of destroying both in one go. 
+connect a development board lest I run the risk of destroying both in one go.
 
-Here is the board in clock generation mode. 
+Here is the board in clock generation mode.
 ![Mutable Instruments Module Tester](/images/making-again/module-tester.jpg)
 
 ## uBurst
 
 Arguably one of *the* most known Eurorack modules is that of [Clouds](https://mutable-instruments.net/modules/clouds/), a Mutable
 Instruments granular / texture synthesizer which is known for producing
-spectacular reverbs and granular chopped sounds that people love. 
+spectacular reverbs and granular chopped sounds that people love.
 
 One of the most amazing things about Mutable Instruments is that after the first
 production run of each new module is released Émilie releases the software and
@@ -118,7 +118,7 @@ hardware source code under a MIT license allowing a vibrant community of
 hobbyist makers to take inspiration and run with their own ideas. The results
 are often pretty spectacular, with a resulting ecosystem with a number of
 alternative firmware and module designs in the wild and actively being used by
-musicians the world over. 
+musicians the world over.
 
 uBurst is one of these such inventions. It is as slimmed-down recreation of
 Clouds in a much thinner package (8HP compared to 14HP in the original) which
@@ -177,4 +177,4 @@ It's really great stuff, and it has inspired an interest in techno, and in
 particular *modular* techno that made me decide to dedicate this rig to live
 modular techno performances. With some luck and with the wind behind my back I
 would hope to be able to accomplish something minor in this field during 2019.
-Fingers crossed! Watch this space. 
+Fingers crossed! Watch this space.
