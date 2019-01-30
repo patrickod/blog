@@ -1,4 +1,4 @@
-
+---
 comments: true
 date: 2015-01-01T14:38:57Z
 title: '2015: Resolutions'
