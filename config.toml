@@ -1,4 +1,4 @@
-baseurl = "https://patrickod.com"
+baseurl = "https://patrickod.com/"
 disablePathToLower = true
 languageCode = "en"
 title = "slash blog"
