@@ -3,7 +3,7 @@ disablePathToLower = true
 languageCode = "en"
 title = "slash blog"
 subTitle = "a collection of thoughts and hacks"
-theme = "ghostwriter"
+theme = "base16"
 copyright = "Patrick O'Doherty"
 relativeURLS = false
 
