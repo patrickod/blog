@@ -1,11 +1,11 @@
-baseurl = "https://d3j6ewz3bkzfsr.cloudfront.net"
+baseurl = "https://d3j6ewz3bkzfsr.cloudfront.net/"
 disablePathToLower = true
 languageCode = "en"
 title = "slash blog"
 subTitle = "a collection of thoughts and hacks"
 theme = "base16"
 copyright = "Patrick O'Doherty"
-relativeURLS = false
+relativeURLS = true
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
 googleAnalytics = "" # Optional, add tracking Id for analytics
