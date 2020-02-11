@@ -68,9 +68,8 @@ first. The two best new additions to my setup are this [2.5X LED magnifying
 glass](https://www.amazon.com/gp/product/B06WWP4VKB/ref=ppx_yo_dt_b_asin_title_o05__o00_s01?ie=UTF8&psc=1)
 and a [hot air station](https://www.amazon.com/gp/product/B01MR2IWBN/ref=ppx_yo_dt_b_asin_title_o05__o00_s02?ie=UTF8&psc=1).
 The LED magnifying loop has adjustable brightness and also temperature which
-make working at night very comfortable on the eyes. On top of that the mounting
-arm allows me to tuck it behind my desktop monitor so it can serve as a
-backlight against the wall.
+make working at night very comfortable on the eyes. On top of that the mounting arm allows me to tuck it behind my desktop monitor so it can serve as a backlight against the wall.
+
 {{ <figure src="/images/making-again/magnifying-loop-backlight.jpg" alt="LED magnifying loop serving as monitor backlight" caption="LED magnifying loop serving as monitor backlight" > }}
 
 ### In the beginning was the tester
