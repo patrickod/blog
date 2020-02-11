@@ -71,8 +71,8 @@ The LED magnifying loop has adjustable brightness and also temperature which
 make working at night very comfortable on the eyes. On top of that the mounting
 arm allows me to tuck it behind my desktop monitor so it can serve as a
 backlight against the wall.
-![Magnifying loop backlight](/images/making-again/magnifying-loop-backlight.jpg)
 
+{{< figure src="/images/making-again/magnifying-loop-backlight.jpg" alt="LED magnifying loop serving as computer monitor backlight" caption="LED magnifying loop serving as computer monitor backlight" >}}
 ### In the beginning was the tester
 
 The first project I undertook was assembling a [Mutable Instruments Module
