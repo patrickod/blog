@@ -71,7 +71,7 @@ The LED magnifying loop has adjustable brightness and also temperature which
 make working at night very comfortable on the eyes. On top of that the mounting
 arm allows me to tuck it behind my desktop monitor so it can serve as a
 backlight against the wall.
-![Magnifying loop backlight](/images/making-again/magnifying-loop-backlight.jpg)
+{{ <figure src="/images/making-again/magnifying-loop-backlight.jpg" alt="LED magnifying loop serving as monitor backlight" caption="LED magnifying loop serving as monitor backlight" > }}
 
 ### In the beginning was the tester
 
@@ -104,7 +104,7 @@ development. I want to be absolutely sure that the voltages are correct before I
 connect a development board lest I run the risk of destroying both in one go.
 
 Here is the board in clock generation mode.
-![Mutable Instruments Module Tester](/images/making-again/module-tester.jpg)
+{{ <figure src="/images/making-again/module-tester.jpg" alt="Module Tester by Mutable Instruments" caption="Module Tester by Mutable Instruments" > }}
 
 ## uBurst
 
@@ -135,11 +135,11 @@ give attention to each component individually as I'm working which is preferable
 for my first time around.
 
 Here's the results thus far!
-![uBurst PCB back side assembly](/images/making-again/uburst-wip-1.jpg)
+{{ <figure src="/images/making-again/uburst-wip-1.jpg" alt="A work in progress uBurst PCB back side assembly" caption="A work in progress uBurst PCB back side assembly" > }}
 
 And here's the almost assembled PCB (missing only the final potentiometers) with
 the front panel mounted.
-![Ubust partially assembled front panel](/images/making-again/uburst-wip-2.jpg)
+{{ <figure alt="/images/making-again/uburst-wip-2.jpg" alt="Partially assembled uBurst" caption="Partially assembled uBurst" > }}0
 
 At the time of writing the module is very near completely assembled, with all of
 the SMD components on the back side of the board and the vast majority of the
