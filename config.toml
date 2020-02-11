@@ -1,15 +1,11 @@
-baseurl = "https://patrickod.com/"
+baseurl = "/"
 disablePathToLower = true
-languageCode = "en"
-title = "slash blog"
-subTitle = "a collection of thoughts and hacks"
-theme = "base16"
+languageCode = "en-US"
+theme = "terminal"
 copyright = "Patrick O'Doherty"
 relativeURLS = true
 
 enableRobotsTXT = true # Suggested, enable robots.txt file
-googleAnalytics = "" # Optional, add tracking Id for analytics
-SectionPagesMenu = "main" # Enable menu system for lazy bloggers
 canonifyurls = true
 
 [Taxonimies]
@@ -23,28 +19,19 @@ name = "Patrick O'Doherty"
 profile = "https://twitter.com/patrickod"
 
 [params]
-intro = true
-headline = "slash blog"
-description = "a collection of thoughts and hacks"
 author = "patrickod" # Optional, controls author name display on posts
 github = "https://github.com/patrickod"
 twitter = "https://twitter.com/patrickod"
 email = "hello@patrickod.com"
 
-[params.avatar]
-url = "about/me.png"
-height = 120
-width = 120
-alt = "Patrick O'Doherty"
+# terminal theme specific
+themeColor = "blue"
+contentTypeName = "posts"
+showMenuItems = 1
+showLanguageSelector = false
+fullWidthTheme = false
+centerTheme = true
 
-[params.seo]
-google_verify = "" # Optional, Google verification code
-bing_verify = "" # Optional, Bing verification code
-yandex_verify = "" # Optional, Yandex verification code
-
-[params.highlight]
-style = "github"
-languages = ["go", "dockerfile", "python"]
 
 [params.ContentLicense]
 Name = "CC BY"
@@ -64,3 +51,22 @@ URL = "https://creativecommons.org/licenses/by/4.0/"
 
 [Social]
 twitter = "patrickod"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "slash blog"
+    subTitle = "a collection of thoughts and hacks"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    
+    [languages.en.params.logo]
+      logoText = "slash blog"
+      logoHomeLink = "/"
+    
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+         identifier = "about"
+         name = "About"
+         url = "/about"
