@@ -26,7 +26,7 @@ email = "hello@patrickod.com"
 
 # terminal theme specific
 themeColor = "blue"
-contentTypeName = "posts"
+contentTypeName = "post"
 showMenuItems = 1
 showLanguageSelector = false
 fullWidthTheme = false
