@@ -32,7 +32,7 @@ The two major items that Chrome identified on my own site were:
 
 Fixing the broken links was a simple case of renaming the existing attributes to confirm to the newer standards, in this case swapping `title` for `aria-label` on each of the icon links in the site header. 
 
-```diff
+```git
 {{ with .Site.Params.email }}
 - <a class="button-square button-social hint--top" data-hint="Email" title="Email" href="mailto:{{ . }}">
 -   <i class="fa fa-envelope"></i>
