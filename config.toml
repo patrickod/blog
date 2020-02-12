@@ -1,15 +1,9 @@
 baseurl = "/"
-disablePathToLower = true
 languageCode = "en-US"
 theme = "terminal"
-copyright = "Patrick O'Doherty"
-relativeURLS = true
-
+copyright = "Patrick O'Doherty :: CC-BY"
+enableEmoji = true
 enableRobotsTXT = true # Suggested, enable robots.txt file
-canonifyurls = true
-
-[Taxonimies]
-tag = "tags"
 
 [permalinks]
 post = "/:year/:month/:day/:filename"
@@ -30,7 +24,7 @@ contentTypeName = "post"
 showMenuItems = 2
 showLanguageSelector = false
 fullWidthTheme = false
-centerTheme = true
+centerTheme = false
 
 
 [params.ContentLicense]
