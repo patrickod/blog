@@ -14,7 +14,7 @@ tags:
  - goals
 --- 
 
-Last year I started making a more deliberate effort to make digital memories of everyday life in the form of audio recordings, photos, and video. While I've long been a fan of taking a camera with me on trips the months-long absences of any photos in my Lightroom library made me realize how much I was missing out on.
+Last year I started making a more deliberate effort to make digital memories of everyday life in the form of audio recordings, photos, and video. While I've long been a fan of taking a camera with me on trips, the months-long absences of any photos in my Lightroom library made me realize how much every day life I was neglecting to record.
 
 As a byproduct of this new habit I've ended up with a bunch of material documenting in greater detail the electronics and musics side projects that have occupied more and more of my time since 2019. Initially I had hoped that some of this material would make its way to the world in the form of short blog entries but I let self confidence and procrastination get the better of me. In the end I only released a single YouTube video in 2019, a noodle recorded on my DIY-assembled Eurorack synthesizer. 
 
@@ -22,4 +22,4 @@ In November last year I had the fortune of attending my first Hackaday Supercon 
 
 Taking that lesson and applying it a little closer to home, I decided this last weekend to invest some time in improving my writing setup, specifically with the aim of making publishing extremely easy. While I'm a big fan of Hugo, my direct to S3 upload approach meant that I could only post updates from the one machine with valid personal AWS credentials.
 
-Now with the help of some fancy Github Actions I need only update the Git repository with new source content, and it will take care of the rest. The entire (Github Workflow)[https://github.com/patrickod/blog/blob/master/.github/workflows/build-master.yml] is under 50 lines. This brings the act of writing and publishing into reach of something that can be achieved with an iPad and a half hour of focus time. I've not decided to take a specific writing goal or number, but I do hope that the sum of these small changes leads to more and more frequent creative output in my future.
+Now with the help of some fancy Github Actions I need only update the Git repository with new source content, and it will take care of the rest. The entire [Github Action workflow](https://github.com/patrickod/blog/blob/master/.github/workflows/build-master.yml) is under 50 lines. This brings the act of writing and publishing into reach of something that can be achieved with an iPad and a half hour of focus time. I've not decided to take a specific writing goal or number, but I do hope that the sum of these small changes leads to more and more frequent creative output in my future.
