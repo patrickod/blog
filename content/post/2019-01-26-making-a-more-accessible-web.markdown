@@ -33,13 +33,13 @@ The two major items that Chrome identified on my own site were:
 Fixing the broken links was a simple case of renaming the existing attributes to confirm to the newer standards, in this case swapping `title` for `aria-label` on each of the icon links in the site header. 
 
 ```diff
-                         {{ with .Site.Params.email }}
--                            <a class="button-square button-social hint--top" data-hint="Email" title="Email" href="mailto:{{ . }}">
--                                <i class="fa fa-envelope"></i>
-+                            <a class="button-square button-social hint--top" data-hint="Email" aria-label="Email" href="mailto:{{ . }}">
-+                                <i class="fa fa-envelope" aria-hidden="true" ></i>
-                             </a>
-                         {{ end }}
+{{ with .Site.Params.email }}
+- <a class="button-square button-social hint--top" data-hint="Email" title="Email" href="mailto:{{ . }}">
+-   <i class="fa fa-envelope"></i>
++ <a class="button-square button-social hint--top" data-hint="Email" aria-label="Email" href="mailto:{{ . }}">
++   <i class="fa fa-envelope" aria-hidden="true" ></i>
+  </a>
+{{ end }}
 ```
 
 Changing the colors for the alternative text such as post descriptions to increase the contrast ratio was also made simple by the color picker which is built into the development tools. This allows you to make a quick visual selection and copy the appropriate hex value to your clipboard for easy editing.
