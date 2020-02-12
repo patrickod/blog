@@ -70,7 +70,7 @@ and a [hot air station](https://www.amazon.com/gp/product/B01MR2IWBN/ref=ppx_yo_
 The LED magnifying loop has adjustable brightness and also temperature which
 make working at night very comfortable on the eyes. On top of that the mounting arm allows me to tuck it behind my desktop monitor so it can serve as a backlight against the wall.
 
-{{ <figure src="/images/making-again/magnifying-loop-backlight.jpg" alt="LED magnifying loop serving as monitor backlight" caption="LED magnifying loop serving as monitor backlight" > }}
+{{< figure src="/images/making-again/magnifying-loop-backlight.jpg" alt="LED magnifying loop serving as monitor backlight" caption="LED magnifying loop serving as monitor backlight" >}}
 
 ### In the beginning was the tester
 
@@ -103,7 +103,7 @@ development. I want to be absolutely sure that the voltages are correct before I
 connect a development board lest I run the risk of destroying both in one go.
 
 Here is the board in clock generation mode.
-{{ <figure src="/images/making-again/module-tester.jpg" alt="Module Tester by Mutable Instruments" caption="Module Tester by Mutable Instruments" > }}
+{{< figure src="/images/making-again/module-tester.jpg" alt="Module Tester by Mutable Instruments" caption="Module Tester by Mutable Instruments" >}}
 
 ## uBurst
 
@@ -125,7 +125,7 @@ makes a significant difference in the limited space in which I'm working. Here's
 a photo of the uBurst faceplate that I picked up. The panel will be fixed on top
 of the PCB and then will in turn be mounted into the case using the screw holes
 along the top and bottom edge of the panel.
-{{ <figure src="/images/making-again/uburst-panel.jpg" alt="uBurst panel" caption="uBurst panel" /> }}
+{{< figure src="/images/making-again/uburst-panel.jpg" alt="uBurst panel" caption="uBurst panel" >}}
 
 This is my first attempt ever at SMD soldering at home and so I decided use the
 hot air reflow station instead of using a hotplate to reflow the board after
@@ -134,11 +134,11 @@ give attention to each component individually as I'm working which is preferable
 for my first time around.
 
 Here's the results thus far!
-{{ <figure src="/images/making-again/uburst-wip-1.jpg" alt="A work in progress uBurst PCB back side assembly" caption="A work in progress uBurst PCB back side assembly"/> }}
+{{< figure src="/images/making-again/uburst-wip-1.jpg" alt="A work in progress uBurst PCB back side assembly" caption="A work in progress uBurst PCB back side assembly" >}}
 
 And here's the almost assembled PCB (missing only the final potentiometers) with
 the front panel mounted.
-{{ <figure alt="/images/making-again/uburst-wip-2.jpg" alt="Partially assembled uBurst" caption="Partially assembled uBurst"/> }}
+{{< figure alt="/images/making-again/uburst-wip-2.jpg" alt="Partially assembled uBurst" caption="Partially assembled uBurst" >}}
 
 At the time of writing the module is very near completely assembled, with all of
 the SMD components on the back side of the board and the vast majority of the
