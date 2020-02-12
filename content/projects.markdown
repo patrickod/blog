@@ -3,9 +3,11 @@ date: 2019-01-26T18:00:00Z
 title: Current projects
 url: /projects/
 tags:
+ - about
  - projects
- - hobby
  - music
+ - electronics
+ - hobby
 ---
 
 The following is a list of some of the projects that I'm currently working on and about which I hope to write periodically on the blog.
