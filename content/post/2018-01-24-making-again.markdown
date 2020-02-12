@@ -177,3 +177,4 @@ particular *modular* techno that made me decide to dedicate this rig to live
 modular techno performances. With some luck and with the wind behind my back I
 would hope to be able to accomplish something minor in this field during 2019.
 Fingers crossed! Watch this space.
+T

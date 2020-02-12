@@ -3,7 +3,7 @@ title: "Making a More Accessible Web"
 date: 2019-01-26T19:31:33-08:00
 tags:
  - accessibility
- - web programming
+ - web-programming
  - development
  - browsers
  - html

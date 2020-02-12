@@ -6,7 +6,7 @@ url: /2019/01/24/a-brief-musical-journey/
 tags:
  - music
  - hobbies
- - synthenizers
+ - synthesizers
  - producing
 ---
 
