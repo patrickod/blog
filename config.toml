@@ -37,21 +37,6 @@ centerTheme = true
 Name = "CC BY"
 URL = "https://creativecommons.org/licenses/by/4.0/"
 
-[menu]
-  [[menu.main]]
-    name = "About"
-    weight = 1
-    identifier = "about"
-    url = "/about/"
-  [[menu.main]]
-    name = "Projects"
-    weight = 2
-    identifier = "projects"
-    url = "/projects/"
-
-[Social]
-twitter = "patrickod"
-
 [languages]
   [languages.en]
     languageName = "English"
